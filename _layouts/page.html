@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+<body>
+
+	{% include navigation.html %}
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1 text-left">
+				<div class="page">
+
+					<header>
+						<h1 class="page-title">
+							<div class="title-plate">
+								<span class="title-text">{{ page.title }}</span>
+							</div>
+						</h1>
+					</header>
+
+					<article class="page-content">
+						{{ content }}
+					</article>
+
+				</div> <!-- /.page -->
+			</div> <!-- /.col -->
+		</div> <!-- /.row -->
+	</div> <!-- /.container -->
+
+	{% include footer.html %}
+	{% include scripts.html %}
+  
+</body>
+
+</html>
