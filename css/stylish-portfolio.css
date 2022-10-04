@@ -331,3 +331,14 @@ footer {
   color: white;
   text-decoration: underline;
 }
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+#projects h4 a {
+    color: white;
+}

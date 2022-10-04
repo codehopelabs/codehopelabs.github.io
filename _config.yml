@@ -24,6 +24,8 @@ collections:
     output: true
   ideas:
     output: true
+  projects:
+    output: false
 
 defaults:
   -
