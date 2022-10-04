@@ -20,3 +20,5 @@ markdown: kramdown
 collections:
   publications:
     output: false
+  problems:
+    output: true
