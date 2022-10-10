@@ -7,25 +7,25 @@
   
           <div class="row">
   
-          {% assign projectcount = 0 %}
-          {% assign projects = site.projects | where:"featured", "1" | sort:"weight" | reverse | limit:6 %}
-          {% for project in projects %}
+          {% assign itemcount = 0 %}
+          {% assign navitems = site.navitems | where:"featured", "1" | sort:"weight" | reverse | limit:6 %}
+          {% for item in navitems %}
             <div class="col-md-4 col-sm-6 service-item-container">
               <div class="service-item">
                 <span class="fa-stack fa-4x">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-{{ project.icon }} fa-stack-1x text-primary"></i>
+                  <i class="fa fa-{{ item.icon }} fa-stack-1x text-primary"></i>
                 </span>
                 <h4>
-                  <strong><a href="{{ project.link }}"">{{ project.title }}</a></strong>
+                  <strong><a href="{{ item.link }}"">{{ item.title }}</a></strong>
                 </h4>
-                <p class="project-desc">{{ project.description }}</p>
+                <p class="project-desc">{{ item.description }}</p>
                 
               </div> <!-- /.service-item -->
             </div> <!-- /.service-item-container -->
   
-            {% assign projectcount = projectcount | plus: 1 %}
-            {% assign needsbreak = projectcount | modulo: 3 %}
+            {% assign itemcount = itemcount | plus: 1 %}
+            {% assign needsbreak = itemcount | modulo: 3 %}
   
             {% if needsbreak == 0 %}
           </div> <!-- /.row (nested) -->
