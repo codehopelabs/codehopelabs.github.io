@@ -26,6 +26,8 @@ collections:
     output: true
   projects:
     output: false
+  tools:
+    output: false
 
 defaults:
   -
