@@ -3,15 +3,15 @@
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
     <li class="sidebar-brand">
-      <a href="/#top"  onclick = $("#menu-close").click(); >Home</a>
+      <a href="{{site.baseurl}}#top"  onclick = $("#menu-close").click(); >Home</a>
     </li>
     <li>
-      <a href="/#about" onclick = $("#menu-close").click(); >About</a>
+      <a href="{{site.baseurl}}#about" onclick = $("#menu-close").click(); >About</a>
     </li>
     {% assign navitems = site.navitems | where:"featured", "1" | sort:"weight" | reverse | limit:6 %}
     {% for item in navitems %}
     <li>
-      <a href="{{item.link}}" onclick = $("#menu-close").click(); >{{item.title}}</a>
+      <a href="{{site.baseurl}}{{item.link}}" onclick = $("#menu-close").click(); >{{item.title}}</a>
     </li>
     {% endfor %}
   </ul>
