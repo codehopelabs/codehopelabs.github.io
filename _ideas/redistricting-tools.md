@@ -8,6 +8,7 @@ The tools that could help with such processes include:
 
 * A historical database of election results at the precinct level (such as that provided by [Civera](https://civerasoftware.com/)), especially matched to demographic data from the Census.
 * Software to readily evaluate Voting Rights Act compliance for a proosed map.
+* Optical scanning software to convert election result PDFs provided by some localities into machine-readable data.
 
 The business model for such tools is quite difficult, because they are only likely to be used by a small handful of groups once every ten years or so. Some states have mid-decade redistricting for state legislative seats, and it's possible that targeting such states is a good first step toward financial sustainability.
 
@@ -19,3 +20,5 @@ A different suite of tools could be brought to bear in the cycle or two leading 
 * Any ballot initiatives that may impact redistricting
 
 Such tools would likely target organizations like the [National Democratic Redistricting Committee](https://democraticredistricting.com/), [Ballot Initiative Strategy Center](https://democraticredistricting.com/), and others.
+
+Adam Kincaid discusses some ideas related to the above in [his Business of Politics interview](https://podcast.startupcaucus.com/1833138/9964546-how-redistricting-actually-works-adam-kincaid-national-republican-redistricting-trust), at 20:20, as well as some useful background information at 12:43.

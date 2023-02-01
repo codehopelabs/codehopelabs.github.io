@@ -8,4 +8,4 @@ One way to tackle this problem is to create an "organizing flywheel": some kind 
 
 If we could reliably produce such a flywheel, then we could stop the cycle of showing up once every four years. Instead, we could show up somewhat early in the swing states one cycle, and let the resulting organizations move forward after the cycle is over; by the time the next cycle starts, these organizations could be strong enough that we could "move on" to another set of swing states. Eventually we could create a somewhat universal network of local organizations that power progressive organizing year-round.
 
-Credit to some great episodes of the Great Battlefield, especially [Micah Sifry](https://www.resistancedashboard.com/node/671) and [Eitan Hersh](https://www.resistancedashboard.com/node/657).
+Credit to some great episodes of the Great Battlefield, especially [Micah Sifry](https://www.resistancedashboard.com/node/671) and [Eitan Hersh](https://www.resistancedashboard.com/node/657). Megan Clasen also discusses a real-world example of this idea, based in Wisconsin, in [her Great Battlefield interview](https://www.resistancedashboard.com/node/566), at 22:54.
