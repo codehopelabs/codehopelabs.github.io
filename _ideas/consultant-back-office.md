@@ -6,4 +6,4 @@ Many political consultancies operate at a fairly small level - often just a sing
 
 A back office provider might have opportunities to scale and extend this work in interesting ways - for example, facilitating mergers and acquisitions in this space, or acting as a broker for software companies targeting campaigns, and so forth.
 
-This idea was inspired by [Kalani Tissot's interview on Great Battlefield](https://www.resistancedashboard.com/node/1145), especially with the discussiona originating around the 45-minute mark.
+This idea was inspired by [Kalani Tissot's interview on Great Battlefield](https://www.resistancedashboard.com/node/1145), around 53:29.
