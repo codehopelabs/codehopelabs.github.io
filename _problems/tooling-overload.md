@@ -1,4 +1,5 @@
 ---
 title: Tooling overload
-description: The proliferation of new tools aimed at campaigns has created a sense of bewilderment among campaign staff, who are charged with deciding which tools they will adopt, and subsequently suffer from sync issues and other vendor coordination challenges. On the flip side, tech vendors face numerous integration challenges and must pay the cost of customer acquisition.
 ---
+
+The proliferation of new tools aimed at campaigns has created a sense of bewilderment among campaign staff, who are charged with deciding which tools they will adopt, and subsequently suffer from sync issues and other vendor coordination challenges. On the flip side, tech vendors face numerous integration challenges and must pay the cost of customer acquisition.
