@@ -2,6 +2,11 @@
 title: Progressive data ecosystem
 ---
 
+<ul class="text-muted bookmarks">
+  <li>&#10146; <a href="/">Home</a></li>
+  <li>&#10146; <a href="/tools">Tools</a></li>
+</ul>
+
 The following is a [diagram of the progressive data ecosystem](https://lucid.app/documents/view/4e7aa70e-b207-4b70-b974-4a5ef4dd62b3):
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4e7aa70e-b207-4b70-b974-4a5ef4dd62b3" id="G6coBfwMatZ8"></iframe></div>
