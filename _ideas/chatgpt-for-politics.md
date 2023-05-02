@@ -34,3 +34,9 @@ At the same time, there is clearly a need to defend against some of the harms of
 * The long-term "disappearance" of minority languages, which are largely underserved by LLMs.
 
 Finally, it may be worthwhile to invest in the creation of LLM resources dedicated specifically for use by the progressive movement. For example, it may be worthwhile to create a special-purpose LLM suited specifically to the above needs. Such an approach might sidestep some of the harms above, while producing more appropriate outputs for important use cases. Alternatively, it may be a good idea to create a [ChatGPT plugin](https://openai.com/blog/chatgpt-plugins) for politics.
+
+## Comments
+
+Thoughts? Anything to add? Join the conversation on Mastodon!
+
+<iframe src="https://mstdn.party/@shaisachs/110214217741646779/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mstdn.party/embed.js" async="async"></script>
