@@ -11,4 +11,6 @@ There are numerous ways to improve these systems:
 * Make them more broadly accessible - e.g. via mobile apps
 * Create analogous access systems for state and federal benefits
 
+Another related idea is "citizen portals" which give constituents 360-degree access to all of the different things they may need to do to interact with a government at any level - ranging from building permits to enrolling in Medicare. Nathaniel Pearlman discussed this idea in his [interview with Alex Kouts](http://www.resistancedashboard.com/node/1094), at the 58:03 mark.
+
 Progressive organizations can leverage these tools to improve access to benefits. Such an effort is both directly useful to their constituents, and an effective embodiment of progressive values. Progressive elected officials should work to expand services as described above; and civic tech firms should work to leverage technology to make these services more broadly accessible.
