@@ -15,8 +15,11 @@ There are many other opportunities for the use of LLMs in politics:
 * Automated tagging/categorization of relatively short bits of text at scale.
 * Supplementing existing data modeling techniques, by asking an LLM to find prospective donors or volunteers. While traditional modeling might produce higher quality results, LLMs might be able to supplement these models with faster or cheaper iterations.
 * Ingesting and summarizing or searching a large body of text - e.g., discerning trends in all of the op-eds published in every American newspaper in the last 24 hours.
+* Related to the above, as an assistant in opposition research - e.g., finding objectionable comments in speeches or op-eds.
 * Drafting or creating strategy documents, campaign plans, and other operational artifacts. Relatedly, acting as an interactive advisor over a long-term time frame, and thereby incorporating changes in the political landscape over the course of an election season.
 * Automatically placing ad buys, especially CTV and such, as discussed in a recent CampaignTech newsletter.
+* Using "deepfake" approaches to tweak video. For example, creating an English-language ad and then creating a "deepfake" of that ad in Spanish and other languages.
+* Bring citizens into otherwise arcane processes like school board meetings by extracting highlights from meeting minutes, as [CloverLeaf AI](https://www.cloverleaf.ai/) does. Adam Zucker described [the idea of summarizing meeting minutes with AI](https://podcast.startupcaucus.com/1833138/10864846-training-artificial-intelligence-to-monitor-local-government-jeremy-becker-cloverleaf-ai) in his Business of Politics episode at the 2:45 mark.
 
 There are also needs for resources attendant to these tools, such as:
 
