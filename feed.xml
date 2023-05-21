@@ -13,7 +13,7 @@ layout: null
   </author>
   <generator>Jekyll v{{ jekyll.version }}</generator>
 
-  {% for post in site.posts limit: 10 %}
+  {% for post in site.ideas limit: 10 %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ site.url }}{{ post.url }}"/>
