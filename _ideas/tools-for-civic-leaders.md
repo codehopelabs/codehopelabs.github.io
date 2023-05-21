@@ -14,3 +14,5 @@ These forms of support can include:
 * Software to handle events, volunteers, and donations for small civic groups
 
 Many of these resources exist today, but they need to be better organized and streamlined for use by civic leaders. Often such leaders do their work on the margins of their day jobs, with very little time or resources available. The resources above must be gathered in a way which does not create a barrier to entry for resource-constrained civic leaders; ideally, they would be made available by government in some kind of content-neutral fashion, or perhaps funded through tax credits.
+
+The software described here is sometimes referred to by [Eric Wilson as an idea that "software follows the volunteer](https://podcast.startupcaucus.com/1833138/11775066-what-voters-think-about-fundraising-emails-josh-nelson-civic-shout), as described in his interview with Josh Nelson at the 13:10 mark.

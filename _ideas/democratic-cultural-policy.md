@@ -18,3 +18,5 @@ The Wagner Act paved the way for this form of policy - the US government is comm
 * Tax credits and other incentives for civic society organizing work
 
 Similarly, government should seek to actively combat toxic problems in civic society. Prime examples are the crisis of loneliness, which is a serious public health crisis only exacerbated by the COVID-19 quarantine; and the crisis of masculinity, which is a serious civic society problem which tends to leave open a space for misogyny and online radicalization.
+
+Ideas like those above are described in much greater detail in Rachel Kleinfeld's 2022 report, [Five Strategies to Support US Democracy](https://carnegieendowment.org/2022/09/15/five-strategies-to-support-u.s.-democracy-pub-87918).
