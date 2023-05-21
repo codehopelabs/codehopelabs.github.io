@@ -14,7 +14,7 @@ layout: null
   <generator>Jekyll v{{ jekyll.version }}</generator>
 
   {% assign ideas = site.ideas | reverse %}
-  {% for post in ideas | limit: 10 %}
+  {% for post in ideas | limit: 100 %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ site.url }}{{ post.url }}"/>
