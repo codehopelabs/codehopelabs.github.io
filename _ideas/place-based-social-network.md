@@ -1,5 +1,6 @@
 ---
 title: Place-based social network
+date: 2023-05-16 17:28:48
 ---
 
 A place-based social network is similar to Facebook or Twitter in functionality, but is focused on curating the civic experience of a relatively small locality such as a city or neighborhood. It differs from place-based groups on larger social networks in that the entire experience is organized around a particular locality.

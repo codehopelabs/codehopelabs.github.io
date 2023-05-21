@@ -1,5 +1,6 @@
 ---
 title: Social graph
+date: 2023-02-01 21:53:28
 ---
 
 We should build a "permanent" national social graph, similar to what we've done with the national voter file. Currently, the DNC, TargetSmart, Catalist, and soon the Democratic Data Exchange maintain curated databases listing all of the voters in the United States. We would benefit greatly from a similar data effort which seeks to learn "real-world" relationships among people, which may be relevant to political organizing. Such relationships would include family ties, friendships, religious affiliations, alumni networks, etc. Once these relationships are "learned" they do not need to be "re-learned" - e.g., if in one campaign cycle we learn that Alice is related to Bob, then we can leveage that same fact in the next cycle, because they are still related.

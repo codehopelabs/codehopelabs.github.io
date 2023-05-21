@@ -1,5 +1,6 @@
 ---
 title: Partisanship Campaign
+date: 2022-10-11 12:53:34
 ---
 
 Voters tend to vote in partisan fashion, with ticket-splitting on the decline and even most self-declared independents acting, in practice, as partisans of one party or another. Therefore, instead of focusing our efforts on supporting one candidate or another, we should focus on pushing voters into the Democratic party.

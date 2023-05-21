@@ -1,5 +1,6 @@
 ---
 title: Campaign in waiting
+date: 2023-05-21 12:03:37
 ---
 
 Although protracted primary campaigns can encourage enthusiasm within the Democratic base, and can garner earned media coverage, they tend to delay planning for the general election. A "campaign in waiting" which prepares the groundwork for the party's nominee can help alleviate this problem.

@@ -1,5 +1,6 @@
 ---
 title: Organizing Flywheel
+date: 2023-01-31 22:27:03
 ---
 
 There is a persistent problem in progressive organizing - we do not invest in organizing year-round, and we do not invest in organizing "everywhere". Because a lot of organizing money tends to become available toward the end of the presidential cycle, we tend to "show up" a few months before the general election, and only in a handful of swing states.

@@ -1,5 +1,6 @@
 ---
 title: Content-neutral journalism subsidies
+date: 2022-11-12 07:02:49
 ---
 
 In [The Death and Life of American Journalism](https://www.indiebound.org/book/9781568586366), Robert W. McChesney and John Nichols argue that American journalism benefited from early policies that provided content-neutral government subsidies to a wide variety of newspapers. Chief amongst these policies was a low postage rate for newspapers, which invigorated newspaper distribution. Such policies are similar in some ways to existing policies like non-profit status for religious institutions, which amounts to a [significant reduction of government revenues](https://www.weforum.org/agenda/2017/01/religion-bigger-business-than-we-thought/).

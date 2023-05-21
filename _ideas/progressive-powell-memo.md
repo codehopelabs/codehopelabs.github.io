@@ -1,5 +1,6 @@
 ---
 title: Progressive Powell Memo
+date: 2023-04-30 07:02:27
 ---
 
 The [Powell Memo](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/) is an infamous 1971 document in which Lewis Powell laid out a strategy to enlist corporate power on behalf of the conservative movement. This memo is credited with empowering a whole host of efforts to lower taxes, deregulate the economy, and privatize government functions. No doubt the Powell Memo by itself was not sufficient to create the modern conservative movement; it was accompanied by a great deal of persuasion and organizing, and it took many years to see significant impact.

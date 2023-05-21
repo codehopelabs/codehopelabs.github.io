@@ -1,5 +1,6 @@
 ---
 title: Startup incubator
+date: 2023-05-21 10:15:31
 ---
 
 While there is already a vibrant culture of innovation in progressive tech, we have arguably only scratched the surface; there are still numerous problems to attack. At the same time the ecosystem suffers from a lack of higher-level planning - we do not sufficiently architect solutions that we know will be needed well in advance.

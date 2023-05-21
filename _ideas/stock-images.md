@@ -1,5 +1,6 @@
 ---
 title: Stock images
+date: 2023-03-19 08:20:32
 ---
 
 Digital organizers often use stock images to illustrate a concept - for example, an email about a mayoral race might include a picture of town hall. However, it is difficult to use locally-resonant images at scale. If a statewide campaign wants to send an email with a picture of town hall to residents all over the state, it's difficult to send each resident a picture which is locally-resonant (that is to say, of the town hall in each resident's city of residence.) The result can be communications which are dissonant or which seem out-of-touch.

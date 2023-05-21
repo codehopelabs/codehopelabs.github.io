@@ -1,5 +1,6 @@
 ---
 title: Party bureaucracy reforms
+date: 2023-05-01 23:18:44
 ---
 
 There are a variety of changes to Democratic party bureaucracy - i.e. the operation of formally-organized party committees, including the Democratic National Committee, state parties, and others - which could make the party more effective and win more elections. These reforms are noteworthy because they're entirely within the control of the party itself, and in some cases require only modest funding. These include:

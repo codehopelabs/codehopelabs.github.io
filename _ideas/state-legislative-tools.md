@@ -1,5 +1,6 @@
 ---
 title: State legislative tools
+date: 2023-05-20 10:25:37
 ---
 
 State legislators are often underfunded. Providing progressive state legislators with tools they need to be more effective could have outsize impacts on legislation:

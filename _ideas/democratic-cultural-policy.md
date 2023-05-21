@@ -1,5 +1,6 @@
 ---
 title: Democratic cultural policy
+date: 2023-05-21 10:57:55
 ---
 
 Government should take pro-active measures to support pro-democratic (with a small "d") cultural movements. That is to say, the tools and scale of government should be brought to bear on promoting democratic practice and minimizing authoritarian attitudes.

@@ -1,5 +1,6 @@
 ---
 title: Crowdsourcing content
+date: 2023-05-21 13:47:05
 ---
 
 Crowdsourcing content is a broad approach to generating valuable content. It's been used in a variety of different ways:

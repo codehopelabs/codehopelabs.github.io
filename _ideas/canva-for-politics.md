@@ -1,5 +1,6 @@
 ---
 title: Canva for politics
+date: 2022-12-31 12:26:35
 ---
 
 [Canva](https://www.canva.com/) is a very popular design tool that's well-known for democratizing graphic assets. That is, it makes it easier for lay people with limited graphic design skills to create graphical assets like slideshows.

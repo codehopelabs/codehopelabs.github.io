@@ -1,5 +1,6 @@
 ---
 title: Tools for Civic Leaders
+date: 2023-05-21 10:57:55
 ---
 
 Civic leaders who help to organize all kinds of different civic society groups - everything from Buy Nothing groups to church steering committees - need support to be more effective and impactful in their work. Often these individuals are self-appointed and internally motivated to take on some project; they should be encouraged in these efforts, and given the resources they need to do their self-appointed jobs well.

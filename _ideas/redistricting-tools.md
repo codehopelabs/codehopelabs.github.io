@@ -1,5 +1,6 @@
 ---
 title: Redistricting tools
+date: 2023-01-31 22:27:03
 ---
 
 In order to impact decennial redistricting, advocacy groups often try to draw "proposed" maps. These maps attempt to meet numerous constraints, including fair representation for minorities; "compactness" of a district; projected partisan performance (i.e., likely partisan lean of a given district); and compliance with the Voting Rights Act.

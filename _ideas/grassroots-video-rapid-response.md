@@ -1,5 +1,6 @@
 ---
 title: Grassroots Video Rapid Response
+date: 2022-10-11 13:34:09
 ---
 
 Occasionally, lightning strikes during a campaign, especially in the closing weeks. Something noteworthy happens and there's a whirlwind of attention and news coverage. In these cases, it's ideal to be able to respond quickly and to capitalize on these situations. User-generated content, especially grassroots video featuring individuals' own stories, can be especially powerful in ads and other response formats. A toolset which supports this kind of work would be easy to bootstrap (using a combination of cell phones and Youtube) and could work wonders for rapid response.

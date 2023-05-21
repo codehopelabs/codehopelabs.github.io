@@ -1,5 +1,6 @@
 ---
 title: Labor Law Litigation Strategy
+date: 2022-11-12 07:02:49
 ---
 
 In [Taking Back the Worker's Law](https://www.indiebound.org/book/9780801474460), Prof. Ellen Dannin argues for a long-term litigation strategy to make the National Labor Relations Act (NLRA) more effective at protecting workers' rights. The litigation strategy is loosely inspired by the NAACP's successful litigation strategy to desegregate schools, which famously culminated in the landmark Brown v. Board decision.

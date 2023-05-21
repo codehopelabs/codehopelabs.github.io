@@ -1,5 +1,6 @@
 ---
 title: Hopeful digital communities
+date: 2023-05-21 12:42:49
 ---
 
 One of the big problems facing the progressive movement - and politics writ large - is the proliferation of cynical messaging, especially in scam tactics used in digital organizing. These tactics tend to depress fundraising and volunteer activity in the long run, but what is worse, they have an immediate negative impact on high-level messaging and policy. In simple terms, they tend to push progressives into messaging based on contrast rather than messaging based on a positive vision for the future.

@@ -1,5 +1,6 @@
 ---
 title: Progressive org chart as a service
+date: 2022-10-04 06:55:51
 ---
 
 Which organizations are progressive? How do they work together (whether as formal "chapters" / "tables" or informal collaborations)?

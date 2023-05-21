@@ -1,5 +1,6 @@
 ---
 title: Messaging platform
+date: 2023-01-31 22:27:03
 ---
 
 Democrats and progressives benefit from a CRM, produced by NGP VAN, which is used throughout the country in a wide variety of campaigns and organizations. (I worked at NGP VAN from 2010 - 2019. -Shai Sachs) The ubiquity of this constituent-contact platform means that staffers who are trained on one campaign can hit the ground running when they move to a different campaign. Moreover, this platform aggregates data in a way which gives campaigns a lot of insight into the behavior of a voter over time, contingent on data-sharing agreements.

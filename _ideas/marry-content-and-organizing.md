@@ -1,5 +1,6 @@
 ---
 title: Marry content and organizing
+date: 2022-10-21 18:43:49
 ---
 
 This idea is a high-level approach to addressing an audience: incorporate political messaging and activity into a larger stream of "conventional" messaging and activity. Put another way, this approach attempts to bring politics into non-political venues.

@@ -1,5 +1,6 @@
 ---
 title: B Corp Reform
+date: 2023-05-20 11:29:36
 ---
 
 [B Corps](https://www.bcorporation.net/) are important tools for leveraging for-profit corporate structures on behalf of social change. In fact, several progressive tech companies are B Corps. It's useful as a way to "hard-code" the social mission of a company into its founding documents, so that it's difficult to undo if the company is later acquired. 

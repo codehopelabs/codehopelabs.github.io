@@ -1,5 +1,6 @@
 ---
 title: Social Media for Campaigns
+date: 2022-10-11 10:20:09
 ---
 
 How can we create small social media networks for campaign professionals and volunteers? How can we make it easy for staff to readily communicate with one another and/or their volunteers? These problems affect all kinds of campaigns, and solving them helps enable things like distributed canvassing and peer-to-peer canvassing.

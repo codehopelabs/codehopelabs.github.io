@@ -1,5 +1,6 @@
 ---
 title: Progressive patent pool
+date: 2022-10-04 06:55:51
 ---
 
 Would it be possible to create a pool of patents on progressive technology, in order to protectively license our tools so that conservatives can't use them? Could such a pool be inadvertantly used to stifle progress?

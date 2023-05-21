@@ -1,5 +1,6 @@
 ---
 title: Personalized voter guide
+date: 2023-02-05 09:32:51
 ---
 
 Often at election time, questions arise like, "who should I vote for?" This problem is particularly keen when it comes to local offices or "sleepy" primaries. It's cumbersome and difficult to put together voter guides. For voters, it's often difficult to find and read such voter guides. It would be great if voters could turn to their friends and trusted community leaders/organizations to see essentially their endorsements, and to create a kind of personalized voter guide based on pre-existing trust network. For ex, "I'm going to vote for Jane for Sherriff because my friend Joe thinks she's great."

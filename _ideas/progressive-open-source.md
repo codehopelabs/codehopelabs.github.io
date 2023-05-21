@@ -1,5 +1,6 @@
 ---
 title: Progressive open source program
+date: 2022-10-04 06:55:51
 ---
 
 How do we readily create an open source program for campaign tech, so that it doesn't disappear after a program is over? How do we capture the enthusiasm of technologists who may not know much about the inner workings of campaigns, but just want to help out, especially during high-profile / high-mobilization elections? How do we sustainably fund a community organizer who can keep an open source community engaged and supported both during and after a campaign? How do we create campaign tech projects that are geared towards being long-lasting from the outset?

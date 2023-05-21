@@ -1,5 +1,6 @@
 ---
 title: Policy Kits
+date: 2023-05-21 12:17:54
 ---
 
 A policy kit is a series of resources organized around some proposed policy. It's useful especially for state legislative work, where resources for researching policy are scarce but reform ideas may be shared readily across state lines. While conservatives enjoy the support of ALEC in crafting policy kits for state legislators, progressive resources in this area are comparatively weak; even organizations like the State Information Exchange which seek to offset the impact of ALEC tend to focus on legislative service rather than policy kit development. [Alex Hertel-Fernandez discusses this problem in his Great Battlefield interview](https://www.resistancedashboard.com/node/602), at the 22:50 mark. Pete Davis describes the [Democracy Policy Network's crowd-sourcing approach to policy kit development](https://www.resistancedashboard.com/node/1138) in his Great Battlefield episode at the 38:19 mark.

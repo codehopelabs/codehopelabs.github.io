@@ -1,5 +1,6 @@
 ---
 title: ChatGPT for Politics
+date: 2023-05-20 10:06:19
 ---
 
 ChatGPT and the associated family of large language models (LLMs) appear to be a promising new technology for generating realistic text. Campaigns and Elections recently explored the possibility of [using ChatGPT to draft press releases and fundraising emails](https://campaignsandelections.com/campaigntech/what-ai-tools-like-chatgpt-mean-for-political-consultants/). The results were passable but not stunning - it's fairly clear that such tooling requires some degree of human curation before it can be presented to the press or to voters.

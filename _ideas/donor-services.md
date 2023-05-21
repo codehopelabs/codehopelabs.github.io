@@ -1,5 +1,6 @@
 ---
 title: Donor services platform
+date: 2022-12-22 09:17:34
 ---
 
 A donor services platform would offer individual donors a number of services to streamline their giving and make it a more pleasant experience.

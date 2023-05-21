@@ -1,5 +1,6 @@
 ---
 title: State party partisanship model
+date: 2023-01-17 22:18:34
 ---
 
 As a general rule, campaigns and state parties outsource the creation of partisanship models to third party vendors like Civis. A partisanship model predicts the likelihood that any given voter affiliates as a Democrat; such models are very useful for prioritizing outreach and canvassing efforts.

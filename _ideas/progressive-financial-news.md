@@ -1,5 +1,6 @@
 ---
 title: Progressive financial news
+date: 2022-10-04 06:55:51
 ---
 
 The world of financial news is heavily skewed towards a conservative economic worldview. This worldview tends to bemoan high taxes and unionization as almost axiomatically bad. For better or worse, the progressive movement includes a fair number of well-to-do individuals - esepcially white-collar professionals in technology, medicine, and law. When those folks look for information about how to invest their money, they are essentially bombarded with conservative talking points dressed up as sound investment advice.

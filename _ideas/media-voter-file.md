@@ -1,5 +1,6 @@
 ---
 title: Media Voter File
+date: 2023-04-30 07:02:19
 ---
 
 As digital media like connected TV offers better and better data about viewing patterns, it is increasingly easy to target ads at individual voters. In cases where targeting is not possible, it is sometimes possible to determine which voters viewed an individual ad *post hoc*.

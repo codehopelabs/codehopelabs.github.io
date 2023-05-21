@@ -1,5 +1,6 @@
 ---
 title: Consultant back office
+date: 2023-02-26 08:04:51
 ---
 
 Many political consultancies operate at a fairly small level - often just a single principal providing services, and sometimes with very informal procedures. A back office solution for political consultants would combine basic functionality like accounting, project management, and contracting with best practices around information security, client onboarding and offboarding processes, document archival, and the like.
