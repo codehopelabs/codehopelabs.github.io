@@ -11,6 +11,7 @@ There are numerous patterns in the broader software industry for solving this ki
 * [James Rucker](https://www.resistancedashboard.com/node/622)
 * [Mike Lux](https://www.resistancedashboard.com/node/469)
 * [Billy Wimsatt](https://www.resistancedashboard.com/node/563)
+* [Iara Peng](https://www.resistancedashboard.com/node/666) at the 1:05:01 mark
 
 [Eric Wilson discussed the services provided by Startup Caucus](https://podcast.startupcaucus.com/1833138/10942965-how-startup-caucus-helps-entrepreneurs-succeed-audio-diary), an incubator for technology for Republican campaigns. Startup Caucus focuses on the following problems that political tech entrepreneurs often face:
 
