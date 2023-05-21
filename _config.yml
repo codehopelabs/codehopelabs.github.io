@@ -3,7 +3,7 @@ title: Code Hope Labs
 author: Shai Sachs
 email:
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # https://codehopelabs.github.io"
+url: "https://codehopelabs.com"
 
 # User setting
 owner: Shai Sachs
