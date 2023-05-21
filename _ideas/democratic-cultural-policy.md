@@ -15,5 +15,6 @@ The Wagner Act paved the way for this form of policy - the US government is comm
 * Use of government holidays to promote pro-social civic behavior, e.g. a federal holiday for Election Day or National Voter Registration day
 * Greater investment in Americorps to promote bridge building in civic society, as [Nealin Parker discusses in her Great Battlefield interview](http://www.resistancedashboard.com/node/1051) at the 1:06:15 mark
 * Policies to heal the urban/rural divide by providing greater interaction between these areas, in both directions
+* Tax credits and other incentives for civic society organizing work
 
 Similarly, government should seek to actively combat toxic problems in civic society. Prime examples are the crisis of loneliness, which is a serious public health crisis only exacerbated by the COVID-19 quarantine; and the crisis of masculinity, which is a serious civic society problem which tends to leave open a space for misogyny and online radicalization.
