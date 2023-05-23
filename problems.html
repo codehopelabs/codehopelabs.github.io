@@ -12,7 +12,7 @@ photographerurl: https://unsplash.com/photos/V9qc-JVKIBo
 
 The following are a set of problems are significant challenges across the progressive movement. Solutions to these problems are in high demand!
 
-{% assign problems = site.problems %}
+{% assign problems = site.problems | sort: 'title' %}
 <section id="problems">
   <ul>
     {%for item in problems %}
