@@ -32,6 +32,7 @@ It's clear that ChatGPT and other Large Language Models (LLMs) like Bard may wel
 * [Five steps executives should take for the ethical use of AI](https://parsonstko.com/ai-for-executives/)
 * [How to create the best ChatGPT policies](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/how-to-create-the-best-chatgpt-policies-.aspx)
 * [ChatGPT Policy Template](https://trainual.com/template/chatgpt-policy)
+* [Google's White Paper on AI Policy](https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/)
 
 ## License
 
