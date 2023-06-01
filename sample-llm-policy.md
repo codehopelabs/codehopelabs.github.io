@@ -21,7 +21,7 @@ It's clear that ChatGPT and other Large Language Models (LLMs) like Bard may wel
 7. Take care in adhering to the ChatGPT or Bard usage policies. In particular, note that large-scale use of ChatGPT for political purposes is forbidden. Unfortunately, the full meaning if this policy has not yet been made clear.
 8. If you intend to use LLMs on an ongoing basis in some clearly-defined process, or if you intend to develop a program around LLMs, please report it to your manager.
 9. Please share this policy with any vendors who may have access to sensitive orgnizational materials, and ensure that they do not share these materials with cloud-based LLMs.
-10. 10. This policy may be updated from time to time, both in response to new developments in LLM technology and as we learn from our experiences. We will make it a priority to keep you informed of these changes and invite open discussions around them.
+10. This policy may be updated from time to time, both in response to new developments in LLM technology and as we learn from our experiences. We will make it a priority to keep you informed of these changes and invite open discussions around them.
 11. We view AI tools like LLMs as resources meant to augment and enhance the work of our professionals, not to replace them. It's essential to remember that human skills, intuition, and judgement are invaluable. As such, while we encourage the innovative use of AI, we also urge the continued development of human-centric skills.
 
 ## Sample AI transparency label
