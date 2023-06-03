@@ -1,0 +1,6 @@
+---
+title: Cross canvassing
+date: 2023-06-03 06:50
+---
+
+Cross-canvassing is a tactic to increase voter response rates to a field program. The idea is to combine multiple modes of contact to a single voter at different points in time. For example, a text messaging program could send a voter a text such as: "Sarah will be in your neighborhood in an hour; why don't you ask her about Senator X's position on Y issue?" Likewise, a postcarding program could follow up on promising phone bank contacts a few days after the initial phone conversation. [Lisa Schneegans discusses using the text- and door-canvassing approach](https://podcast.startupcaucus.com/1833138/9753988-tech-enabled-relational-organizing-for-republicans-lisa-schneegans-buzz360) in her Business of Politics interview at the 5:25 mark. [Chris Faulkner discusses the postcarding tactic](https://podcast.startupcaucus.com/1833138/10204853-integrating-mail-into-modern-political-campaigns-chris-faulkner-majority-strategies) in his Business of Politics interview at the 32:45 mark.
