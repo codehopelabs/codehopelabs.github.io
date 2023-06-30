@@ -3,7 +3,15 @@ title: Low code training
 date: 2023-06-13 06:23
 ---
 
-Just as there are training programs in digital organizing and data management, progressives should organize a series of low-code trainings for political operatives, to encourage the use of low-code tools in campaigns and other time-strapped organizations. Such courses would cover topics like Excel macros, Zapier, Airtable, iPhone and Android app builders, Streamlit, and similar tools. They could be housed in a variety of organizations, such as the DCCC (for its Red to Blue candidates), the Arena (for a broader segment of operatives), or as a standalone organization. Such trainings could be funded by a [startup incubator](https://codehopelabs.com/ideas/startup-incubator.html), which could benefit from the creation of temporary low-code tools by incubating startups that productionize such tools for longer-term adoption.
+Just as there are training programs in digital organizing and data management, progressives should organize a series of low-code trainings for political operatives, to encourage the use of low-code tools in campaigns and other time-strapped organizations. Such courses would cover topics like:
+
+1. Excel macros
+2. Zapier
+3. Airtable
+4. Content management systems like Wordpress
+5. iPhone and Android app builders, Streamlit
+
+The training program could be housed in a variety of organizations, such as the DCCC (for its Red to Blue candidates), the Arena (for a broader segment of operatives), or as a standalone organization. Such trainings could be funded by a [startup incubator](https://codehopelabs.com/ideas/startup-incubator.html), which could benefit from the creation of temporary low-code tools by incubating startups that productionize such tools for longer-term adoption.
 
 Low code tools are already in wide use in political organizations, but the full potential of these tools has yet to be unlocked. Some examples of low-code tool usage in political organizations include:
 
