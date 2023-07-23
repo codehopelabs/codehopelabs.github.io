@@ -44,7 +44,7 @@ body {
     background-color: rgba(0,0,0,0.7);
 }
 
-#header .btn-dark {
+.header .btn-dark {
     margin: 10px;
 }
 
